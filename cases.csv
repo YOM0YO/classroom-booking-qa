@@ -1,0 +1,5 @@
+case_id,room,start,end,expected
+TC01,A101,630,690,false
+TC02,A101,660,720,true
+TC03,A102,630,690,true
+TC04,A101,720,720,false
